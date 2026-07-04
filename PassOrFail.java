@@ -63,20 +63,20 @@
 // in exam passing marks 
 
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class PassOrFail {
+// public class PassOrFail {
     
-     public static void main(String[] args) {
-     Scanner scanner = new Scanner(System.in);
-     int marks = scanner.nextInt();
+//      public static void main(String[] args) {
+//      Scanner scanner = new Scanner(System.in);
+//      int marks = scanner.nextInt();
      
-     if (marks>=35) {
-        System.out.println("You are pass");
-     } else {
-        System.out.println("Sorry you are Fail");
-    }
-}
+//      if (marks>=35) {
+//         System.out.println("You are pass");
+//      } else {
+//         System.out.println("Sorry you are Fail");
+//     }
+// }
 
 
 
