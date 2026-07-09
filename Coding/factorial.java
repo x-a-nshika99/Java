@@ -1,0 +1,21 @@
+package Coding;
+import java.util.Scanner;
+public class factorial {
+    public static void main(String[] args){
+
+        java.util.Scanner scanner = new java.util.Scanner(System.in);
+        System.out.println("enter the number");
+        int number = scanner.nextInt();
+        int fact = 1;
+        int i = 1;
+        for (i=1; i<=number;i++){
+            
+            fact*=i;
+            // System.out.println(fact);
+    
+        }
+        System.out.println(fact);
+
+    }
+    
+}
