@@ -11,7 +11,7 @@ public class cube_1_to_n {
         int cube = 0;
         while(i<n){
             cube = i * i * i;
-            System.out.println(square);
+            System.out.println(cube);
         }
     }
 }
