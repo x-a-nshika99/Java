@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 
 public class even_1_to_100 {
 

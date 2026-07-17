@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 
 
 // what is perfect number that number whose divisor sum is equal to that number 

@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 
 public class odd_1_to_100 {
     public static void main(String[] args){

@@ -1,6 +1,7 @@
-package Coding;
+package While_loop_Question;
 import java.util.Scanner;
-public class sum_of_even {
+public class sum_of_odd {
+    
         public static void main(String[] args){
         java.util.Scanner scanner = new java.util.Scanner(System.in);
         System.out.println("enter the number");
@@ -9,7 +10,7 @@ public class sum_of_even {
         int i = 1;
 
         for (i = 1; i <= number; i++) {
-            if (i%2==0){
+            if (i%2!=0){
 
             sum+=i;}
 
@@ -19,4 +20,5 @@ public class sum_of_even {
 
 
     }
+    
 }

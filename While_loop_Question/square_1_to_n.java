@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 import java.util.Scanner;
 
 public class square_1_to_n {

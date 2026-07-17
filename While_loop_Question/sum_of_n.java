@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 import java.util.Scanner;
 
 public class sum_of_n {

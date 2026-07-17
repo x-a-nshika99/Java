@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 
 //  Print all numbers between a and b that are divisible by 7.
 

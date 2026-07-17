@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 import java.util.Scanner;
 public class factor_of_n {
     public static void main(String[] args) {

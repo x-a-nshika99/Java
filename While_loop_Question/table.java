@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 
 public class table {
     public static void main(String[] args) {

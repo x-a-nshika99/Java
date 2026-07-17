@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 import java.util.Scanner;
 public class armstrong_number {
     public static void main(String[] args) {

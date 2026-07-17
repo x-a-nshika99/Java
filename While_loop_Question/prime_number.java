@@ -1,4 +1,4 @@
-package Coding;
+package While_loop_Question;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class prime_number {
         System.out.print("Enter a number: ");
         int num = scanner.nextInt();
         
-        int originalNum = num;
+       
         
         int i=0;
         int sum = 0;
